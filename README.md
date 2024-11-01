@@ -1,2 +1,1 @@
-# botman-web
-https://botman.cc official website.
+基于vuepress实现。
